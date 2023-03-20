@@ -81,3 +81,7 @@ Quote break.
 
 > Another comment.
 
+## Merge-conflict
+
+Ezt a sor az A branch-rol modositottam
+
