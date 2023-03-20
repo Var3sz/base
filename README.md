@@ -85,3 +85,4 @@ Quote break.
 
 Ezt a sor az A branch-rol modositottam
 
+Ezt a sort a B-rol modositottam.
