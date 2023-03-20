@@ -48,7 +48,7 @@ public class TrainControllerImpl implements TrainController {
 
 	@Override
 	public void setEmergencyButtonState(int emergencyButtonState) {
-		this.referenceSpeed = 0		
+		this.referenceSpeed = 0;
 	}
 
 

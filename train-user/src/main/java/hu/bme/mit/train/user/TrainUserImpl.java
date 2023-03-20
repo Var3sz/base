@@ -32,7 +32,7 @@ public class TrainUserImpl implements TrainUser {
 	@Override
 	public void overrideEmergenyButtonState(int emergencyButtonState) {
 		this.emergencyButtonState = emergencyButtonState;
-		controller.setJoystickPosition(emergencyButtonState);
+		controller.setEmergencyButtonState(emergencyButtonState);
 	}
 
 
